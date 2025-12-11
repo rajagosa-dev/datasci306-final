@@ -2,6 +2,9 @@
 
 This Shiny app explores how home characteristics (beds, baths, square footage, and direction from the city center) change the estimated price gradient with distance from downtown Ann Arbor.
 
+## Link
+https://05i3vc-samarth-rajagopal.shinyapps.io/datasci306-final/
+
 ## Files Included
 - `FINAL.R` – Full Shiny application code
 - `a2housing.RData` – Cleaned dataset used in the app
