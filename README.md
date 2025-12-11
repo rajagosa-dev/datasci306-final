@@ -4,7 +4,7 @@ This Shiny app explores how home characteristics (beds, baths, square footage, a
 
 ---
 
-## 🔗 Live App  
+## Live App  
 https://05i3vc-samarth-rajagopal.shinyapps.io/datasci306-final/
 
 ---
